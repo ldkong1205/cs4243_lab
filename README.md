@@ -15,13 +15,13 @@ This course is for undergraduates who are interested in computer vision and its 
 
 ## Materials
 
-| Lab | Week | Topic | Slides | Tutorial |
-|:-:|:-:|:-:|:-:|:-:|
-| 1 | 3 | Background and Global Operations | [slides](https://github.com/ldkong1205/cs4243_lab/blob/main/slides/lab1_slides.pdf) | [notebook]() |
-| 2 | 4 | Local Operations and Spatial Domain Filtering | slides | notebook |
-| 3 | 5 | TBA | slides | notebook |
-| 4 | 6 | TBA | slides | notebook |
-| 5 | 7 | TBA | slides | notebook |
+| Lab | Week | Topic | Slides | Tutorial | Solution |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1 | 3 | Background and Global Operations | [slides](https://github.com/ldkong1205/cs4243_lab/blob/main/slides/lab1_slides.pdf) | [notebook]() | notebook |
+| 2 | 4 | Local Operations and Spatial Domain Filtering | slides | notebook | notebook |
+| 3 | 5 | TBA | slides | notebook | notebook |
+| 4 | 6 | TBA | slides | notebook | notebook |
+| 5 | 7 | TBA | slides | notebook | notebook |
 | ... | ... | ... | ... | ... |
 
 ## Contact
