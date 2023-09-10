@@ -17,11 +17,11 @@ This course is for undergraduates who are interested in computer vision and its 
 
 | Lab | Week | Topic | Slides | Tutorial | Solution |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 1 | 3 | Background and Global Operations | [slides](https://github.com/ldkong1205/cs4243_lab/blob/main/slides/lab1_slides.pdf) | [notebook](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/lab1.ipynb) | [notebook](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/lab1_solution.ipynb) |
-| 2 | 4 | Local Operations and Spatial Domain Filtering | [slides](https://github.com/ldkong1205/cs4243_lab/blob/main/slides/lab2.pdf) | [notebook](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/lab2.ipynb) | notebook |
-| 3 | 5 | TBA | slides | notebook | notebook |
-| 4 | 6 | TBA | slides | notebook | notebook |
-| 5 | 7 | TBA | slides | notebook | notebook |
+| 1 | 3 | Background and Global Operations | [`slides`](https://github.com/ldkong1205/cs4243_lab/blob/main/slides/lab1_slides.pdf) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/lab1.ipynb) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/lab1_solution.ipynb) |
+| 2 | 4 | Local Operations and Spatial Domain Filtering | [`slides`](https://github.com/ldkong1205/cs4243_lab/blob/main/slides/lab2.pdf) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/lab2.ipynb) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/lab2_solution.ipynb) |
+| 3 | 5 | Filtering in Fourier Domain | [`slides`](https://github.com/ldkong1205/cs4243_lab/blob/main/slides/lab3_slides.pdf) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/lab3.ipynb) | `notebook` |
+| 4 | 6 | TBA | `slides` | `notebook` | `notebook` |
+| 5 | 7 | TBA | `slides` | `notebook` | `notebook` |
 | ... | ... | ... | ... | ... |
 
 ## Contact
