@@ -24,7 +24,7 @@ This course is for undergraduates who are interested in computer vision and its 
 | - | 7 | Recess Week :palm_tree: | - | - | - |
 | 5 | 8 (Mon)| GLCM-Based Texture Analysis, Laws Filters | [`slides`](https://github.com/ldkong1205/cs4243_lab/blob/main/slides/week8.pptx) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/week8_stu.ipynb) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/week8.ipynb) |
 | 5 | 8 (Tue) | GLCM-Based Texture Analysis, Laws Filters | [`slides`](https://github.com/ldkong1205/cs4243_lab/blob/main/slides/lab7_slides.pdf) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/lab7_students.ipynb) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/week8.ipynb) |
-| 6 | 9 | Optical Flow | [`slides`]() | [`notebook`]() | `notebook` |
+| 6 | 9 | Optical Flow | [`slides`]() | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/week9_lab6.ipynb) | `notebook` |
 | 7 | 10 | TBA | `slides` | `notebook` | `notebook` |
 | ... | ... | ... | ... | ... |
 
