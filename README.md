@@ -22,9 +22,9 @@ This course is for undergraduates who are interested in computer vision and its 
 | 3 | 5 | Filtering in Fourier Domain | [`slides`](https://github.com/ldkong1205/cs4243_lab/blob/main/slides/lab3_slides.pdf) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/lab3.ipynb) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/lab3_solution.ipynb) |
 | 4 | 6 | Texture Analysis | [`slides`](https://github.com/ldkong1205/cs4243_lab/blob/main/slides/week6.pptx) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/lab6_stu.ipynb) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/lab6.ipynb) |
 | - | 7 | Recess Week :palm_tree: | - | - | - |
-| 5 | 8 (Monday)| GLCM-Based Texture Analysis, Laws Filters | [`slides`](https://github.com/ldkong1205/cs4243_lab/blob/main/slides/week8.pptx) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/week8_stu.ipynb) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/week8.ipynb) |
-| 5 | 8 | GLCM-Based Texture Analysis, Laws & Gabor Filters | [`slides`](https://github.com/ldkong1205/cs4243_lab/blob/main/slides/lab7_slides.pdf) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/lab7_students.ipynb) | `notebook` |
-| 6 | 9 | TBA | `slides` | `notebook` | `notebook` |
+| 5 | 8 (Mon)| GLCM-Based Texture Analysis, Laws Filters | [`slides`](https://github.com/ldkong1205/cs4243_lab/blob/main/slides/week8.pptx) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/week8_stu.ipynb) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/week8.ipynb) |
+| 5 | 8 (Tue) | GLCM-Based Texture Analysis, Laws Filters | [`slides`](https://github.com/ldkong1205/cs4243_lab/blob/main/slides/lab7_slides.pdf) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/lab7_students.ipynb) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/week8.ipynb) |
+| 6 | 9 | Optical Flow | [`slides`](https://github.com/ldkong1205/cs4243_lab/blob/main/slides/week9_lab6_slides.pdf) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/week9_lab6.ipynb) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/week9_lab6_solution.ipynb) |
 | 7 | 10 | TBA | `slides` | `notebook` | `notebook` |
 | ... | ... | ... | ... | ... |
 
