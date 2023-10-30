@@ -26,7 +26,7 @@ This course is for undergraduates who are interested in computer vision and its 
 | 5 | 8 (Tue) | GLCM-Based Texture Analysis, Laws Filters | [`slides`](https://github.com/ldkong1205/cs4243_lab/blob/main/slides/lab7_slides.pdf) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/lab7_students.ipynb) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/week8.ipynb) |
 | 6 | 9 | Optical Flow | [`slides`](https://github.com/ldkong1205/cs4243_lab/blob/main/slides/week9_lab6_slides.pdf) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/week9_lab6.ipynb) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/week9_lab6_solution.ipynb) |
 | 7 | 10 | Deep Learning, Part 1 | `slides` | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/week10_stu.ipynb) | `notebook` |
-| 8 | 11 | Deep Learning, Part 2 | [`slides`](https://github.com/ldkong1205/cs4243_lab/blob/main/slides/week11_lab8_slides.pdf) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/week11_lab8.ipynb) | `notebook` |
+| 8 | 11 | Deep Learning, Part 2 | [`slides`](https://github.com/ldkong1205/cs4243_lab/blob/main/slides/week11_lab8_slides.pdf) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/week11_lab8.ipynb) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/week11_lab8_solution.ipynb) |
 | 9 | 12 | TBD | `slides` | `notebook` | `notebook` |
 | ... | ... | ... | ... | ... |
 
