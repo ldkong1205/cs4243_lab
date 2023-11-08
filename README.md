@@ -10,7 +10,7 @@ This course is for undergraduates who are interested in computer vision and its 
 3. Pattern recognition.
 
 - Topics covered in image handling include: contrast stretch, histogram equalization, noise removal, and color space.
-- Topics covered in geometrical vision include: affine transform, vanishing points, camera projection models, homography, camera calibration, rotation representations including quaternions, epipolar geometry, binocular stereo, structure from motion.
+- Topics covered in geometrical vision include: affine transform, vanishing points, camera projection models, homography, camera calibration, rotation representations including quaternions, epipolar geometry, binocular stereo, and structure from motion.
 - Topics covered for pattern recognition include principal component analysis.
 
 ## Materials
@@ -27,8 +27,6 @@ This course is for undergraduates who are interested in computer vision and its 
 | 6 | 9 | Optical Flow | [`slides`](https://github.com/ldkong1205/cs4243_lab/blob/main/slides/week9_lab6_slides.pdf) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/week9_lab6.ipynb) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/week9_lab6_solution.ipynb) |
 | 7 | 10 | Deep Learning, Part 1 | `slides` | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/week10_stu.ipynb) | `notebook` |
 | 8 | 11 | Deep Learning, Part 2 | [`slides`](https://github.com/ldkong1205/cs4243_lab/blob/main/slides/week11_lab8_slides.pdf) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/week11_lab8.ipynb) | [`notebook`](https://github.com/ldkong1205/cs4243_lab/blob/main/notebook/week11_lab8_solution.ipynb) |
-| 9 | 12 | TBD | `slides` | `notebook` | `notebook` |
-| ... | ... | ... | ... | ... |
 
 ## Contact
 - Lingdong Kong: lingdong.kong@u.nus.edu
